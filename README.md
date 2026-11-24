@@ -293,7 +293,8 @@ Swagger PetStore API
     v
 Respuesta HTTP / JSON# 🐾 PetStoreAutomation — API Testing con Serenity BDD
 
-📌 Consideraciones
+
+## 📌 Consideraciones
 
 Swagger PetStore es una API pública de demostración. Sus datos pueden ser modificados por otros usuarios y algunas respuestas pueden variar entre ejecuciones.
 
@@ -303,7 +304,7 @@ Las pruebas que consultan o actualizan recursos creados anteriormente reutilizan
 
 Los escenarios negativos con identificadores fijos dependen del estado del servicio público.
 
-📚 Conclusiones
+## 📚 Conclusiones
 
 El proyecto permite automatizar pruebas de servicios REST utilizando herramientas habituales del ecosistema Java.
 
@@ -311,8 +312,27 @@ La implementación del patrón Screenplay facilita la separación de responsabil
 
 El uso de Cucumber y Gherkin permite describir los escenarios de prueba de manera comprensible, mientras que Serenity BDD proporciona reportes para analizar los resultados.
 
-Asimismo, el uso de Scenario Outline y Examples permite ampliar la cobertura de datos sin duplicar la lógica de automatización.
+Asimismo, el uso de `Scenario Outline` y `Examples` permite ampliar la cobertura de datos sin duplicar la lógica de automatización.
 
-Proyecto: PetStoreAutomation — NTT 
+---
 
-Repositorio: https://github.com/Franksall/PetStoreAutomation-NTT
+**Proyecto:** PetStoreAutomation — NTT DATA
+
+**Repositorio:** https://github.com/Franksall/PetStoreAutomation-NTT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
