@@ -292,7 +292,7 @@ Swagger PetStore API
     |
     v
 Respuesta HTTP / JSON# 🐾 PetStoreAutomation — API Testing con Serenity BDD
-
+```
 
 ## 📌 Consideraciones
 
