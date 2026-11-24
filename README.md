@@ -201,12 +201,14 @@ Si Maven está instalado y configurado en el PATH:
 
 ```bash
 mvn clean verify
+mvn serenity:aggregate
 ```
 
 También se puede utilizar el panel Maven de IntelliJ IDEA y ejecutar el objetivo:
 
 ```text
 clean verify
+mvn serenity:aggregate
 ```
 
 Este comando compila el proyecto, ejecuta las pruebas configuradas y genera los reportes de Serenity.
